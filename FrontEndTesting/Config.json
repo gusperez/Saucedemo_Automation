@@ -1,0 +1,28 @@
+{
+	"WebUrl": "https://www.saucedemo.com/",
+	"UserName": "standard_user",
+	"UserNameInvalid": "invalid_user",
+	"Password": "secret_sauce",
+	"ErrorMessage": "Epic sadface: Username and password do not match any user in this service",
+	"ProductsPageUrl": "https://www.saucedemo.com/inventory.html",
+	"LoginPageUrl": "https://www.saucedemo.com/index.html",
+	"ShoppingCartPage": "https://www.saucedemo.com/cart.html",
+	"OverviewPageUrl": "https://www.saucedemo.com/checkout-step-two.html",
+	"ConfirmationPageUrl": "https://www.saucedemo.com/checkout-complete.html",
+	"ProductName_ChildXpath": "//div[@class='inventory_item_name']",
+	"AddToCartButton_ChildXpath": "//button[contains(@class,'btn_inventory')]",
+	"Product_1": "Sauce Labs Backpack",
+	"Product_2": "Sauce Labs Bike Light",
+	"Product_3": "Sauce Labs Bolt T-Shirt",
+	"Product_4": "Sauce Labs Fleece Jacket",
+	"Product_5": "Sauce Labs Onesie",
+	"Product_6": "Test.allTheThings() T-Shirt (Red)",
+	"FirstName": "Gustavo",
+	"LastName": "Perez",
+	"Zip": "45080",
+	"FirstName_ErrorMsg": "Error: First Name is required",
+	"LastName_ErrorMsg": "Error: First Name is required",
+	"Zip_ErrorMsg": "Error: First Name is required"
+	
+	
+}

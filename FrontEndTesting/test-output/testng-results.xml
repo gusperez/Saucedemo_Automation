@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112834" started-at="2020-03-25T22:09:10Z" finished-at="2020-03-25T22:11:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112834" started-at="2020-03-25T22:09:10Z" finished-at="2020-03-25T22:11:03Z">
+      <class name="TestCases.FrontEndTesting">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:TestCases.FrontEndTesting@4667ae56]" name="beforeTest" is-config="true" duration-ms="3194" started-at="2020-03-25T22:09:10Z" finished-at="2020-03-25T22:09:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="LoginValidUser()[pri:1, instance:TestCases.FrontEndTesting@4667ae56]" name="LoginValidUser" duration-ms="19362" started-at="2020-03-25T22:09:13Z" finished-at="2020-03-25T22:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidUser -->
+        <test-method status="PASS" signature="LoginInvalidUser()[pri:2, instance:TestCases.FrontEndTesting@4667ae56]" name="LoginInvalidUser" duration-ms="496" started-at="2020-03-25T22:09:33Z" finished-at="2020-03-25T22:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginInvalidUser -->
+        <test-method status="PASS" signature="LogoutFromProductPage()[pri:3, instance:TestCases.FrontEndTesting@4667ae56]" name="LogoutFromProductPage" duration-ms="7262" started-at="2020-03-25T22:09:33Z" finished-at="2020-03-25T22:09:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutFromProductPage -->
+        <test-method status="PASS" signature="NavigateToShoppingCart()[pri:4, instance:TestCases.FrontEndTesting@4667ae56]" name="NavigateToShoppingCart" duration-ms="7139" started-at="2020-03-25T22:09:40Z" finished-at="2020-03-25T22:09:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigateToShoppingCart -->
+        <test-method status="PASS" signature="AddItemToShoppingCart()[pri:5, instance:TestCases.FrontEndTesting@4667ae56]" name="AddItemToShoppingCart" duration-ms="8062" started-at="2020-03-25T22:09:48Z" finished-at="2020-03-25T22:09:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemToShoppingCart -->
+        <test-method status="PASS" signature="AddItemsToShoppingCart()[pri:6, instance:TestCases.FrontEndTesting@4667ae56]" name="AddItemsToShoppingCart" duration-ms="13075" started-at="2020-03-25T22:09:56Z" finished-at="2020-03-25T22:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddItemsToShoppingCart -->
+        <test-method status="PASS" signature="UserInformationInvalid()[pri:7, instance:TestCases.FrontEndTesting@4667ae56]" name="UserInformationInvalid" duration-ms="10915" started-at="2020-03-25T22:10:09Z" finished-at="2020-03-25T22:10:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserInformationInvalid -->
+        <test-method status="PASS" signature="FillUserInformation()[pri:8, instance:TestCases.FrontEndTesting@4667ae56]" name="FillUserInformation" duration-ms="11966" started-at="2020-03-25T22:10:20Z" finished-at="2020-03-25T22:10:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FillUserInformation -->
+        <test-method status="PASS" signature="FinalOrderItems()[pri:9, instance:TestCases.FrontEndTesting@4667ae56]" name="FinalOrderItems" duration-ms="14249" started-at="2020-03-25T22:10:32Z" finished-at="2020-03-25T22:10:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FinalOrderItems -->
+        <test-method status="PASS" signature="CompletePurchase()[pri:10, instance:TestCases.FrontEndTesting@4667ae56]" name="CompletePurchase" duration-ms="15882" started-at="2020-03-25T22:10:46Z" finished-at="2020-03-25T22:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompletePurchase -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:TestCases.FrontEndTesting@4667ae56]" name="afterTest" is-config="true" duration-ms="1173" started-at="2020-03-25T22:11:02Z" finished-at="2020-03-25T22:11:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestCases.FrontEndTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
