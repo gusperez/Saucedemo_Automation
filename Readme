@@ -1,0 +1,12 @@
+This Automation is divided in two projects:
+
+1. Framework: This has all the needed methods to setup or initiate the browser, initiate all the elements using page factory, 
+get the test data from a JSON file, and all the methods or actions that que be performed on web page.
+
+2. FrontEndTesting: This has the object repository using Page Object Model design pattern, 
+and a Script with all the scenarios.
+
+It has integrated selenium webDriver with: 
+- TestNG 
+- Maven
+- Extent Report.
